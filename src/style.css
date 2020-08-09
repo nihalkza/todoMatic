@@ -1,0 +1,21 @@
+body {
+	background: linear-gradient(270deg,lightgreen,lightyellow,pink, #FFFF99, #CCFFFF,#FAFAD2, #FFEFD5);
+	background-size: 500% 500%;
+	animation: gradient 15s infinite;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+.logo{
+	font-family: 'Lily Script One', cursive;
+}
