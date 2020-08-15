@@ -1,2 +1,0 @@
-body{background:linear-gradient(270deg,#90ee90,#ffffe0,pink,#ff9,#cff,#fafad2,#ffefd5);background-size:500% 500%;-webkit-animation:gradient 15s infinite;animation:gradient 15s infinite}@-webkit-keyframes gradient{0%{background-position:0 50%}50%{background-position:100% 50%}to{background-position:0 50%}}@keyframes gradient{0%{background-position:0 50%}50%{background-position:100% 50%}to{background-position:0 50%}}.logo{font-family:"Lily Script One",cursive}
-/*# sourceMappingURL=main.254061bc.chunk.css.map */
